@@ -1,0 +1,3 @@
+/home/deepan/PycharmProjects/techchallenge/cpp_test_template/CMakeFiles/rebuild_cache.dir
+/home/deepan/PycharmProjects/techchallenge/cpp_test_template/CMakeFiles/edit_cache.dir
+/home/deepan/PycharmProjects/techchallenge/cpp_test_template/CMakeFiles/test_template_cpp.dir

@@ -1,0 +1,8 @@
+<launch>
+  <node pkg="mir_template_matching" type="template_matching_node" 
+	name="template_matching" output="screen">
+    <remap from="~event_in" to="/event_in"/>
+    <remap from="~camera_img" to="/arm_cam3d/rgb/image_raw"/>
+    <remap from="~object_img_list" to="/mcr_perception/object_detector/object_images_list"/>
+  </node>
+</launch>
